@@ -55,7 +55,7 @@ const NavBar = () => {
             />
             <div className='text-lg font-bold md:text-xl'>
                 <Link href={"/"}>
-                    ProgrammingWithHarry
+                    Bloging
                 </Link>
             </div>
             <ul className='hidden md:flex w-full justify-end items-center space-x-4 '>
